@@ -1,0 +1,11 @@
+# .gitignore
+__pycache__/
+*.pyc
+.env
+env/
+venv/
+*.ckpt
+/data/
+*.log
+.DS_Store
+
